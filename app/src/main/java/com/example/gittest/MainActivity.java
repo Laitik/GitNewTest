@@ -52,6 +52,8 @@ public class MainActivity extends AppCompatActivity {
         }
         Log.e("","dsad");
 
+        Log.e("","tac tac aaccssa");
+
         return super.onOptionsItemSelected(item);
     }
 }
