@@ -52,6 +52,9 @@ public class MainActivity extends AppCompatActivity {
         }
 
         Log.e("","tac tac aaccssa");
+        //from master
+        Log.e("","tac tac aaccssa");
+        Log.e("","tac tac aaccssa");
 
         return super.onOptionsItemSelected(item);
     }
