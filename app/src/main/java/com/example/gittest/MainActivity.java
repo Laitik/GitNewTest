@@ -50,10 +50,12 @@ public class MainActivity extends AppCompatActivity {
         if (id == R.id.action_settings) {
             return true;
         }
-        Log.e("","dsad");
 
         Log.e("","tac tac aaccssa");
+        //from master
+        Log.e("","tac tac aaccssa");
+        Log.e("","tac tac aaccssa");
 
-        return super.onOptionsItemSelected(item); 
+        return super.onOptionsItemSelected(item);
     }
 }
